@@ -31,5 +31,5 @@ function verificarAprobacion(promedio) {
 estado = verificarAprobacion(promedio);
 
 // Imprimimos los resultados en la consola
-console.log(`El promedio de ${nombre} es ${promedio}`);
-console.log(`El alumno ${estado}`);
+console.log("El promedio de " + nombre + " es " + promedio);
+console.log("El alumno " + estado);
